@@ -10,6 +10,8 @@ The catalog is cut into equal-size chunks. The player fetches every chunk with P
 CS670, IIT Kanpur, Group 9, instructor Prof. Adithya Vadapalli.
 Team: Kartik (PIR core), Sabhyasachi (player), Lokesh Kumar Moond (network and servers), Krishna Chandu Pujari (evaluation and security).
 
+Code: https://github.com/kartik3777/CS670
+
 A full write-up with method, tables and caveats is in [`docs/PROJECT_REPORT.pdf`](docs/PROJECT_REPORT.pdf).
 
 ---
